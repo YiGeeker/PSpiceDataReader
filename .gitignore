@@ -1,0 +1,6 @@
+# Exclude everything except what maintained by hand
+!./PSpiceDataReader.py
+!./PSpiceData.csv
+!./PSpiceData.txt
+!./README.org
+!./LICENSE

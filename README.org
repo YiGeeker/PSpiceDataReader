@@ -1,0 +1,4 @@
+* PSpice Data Reader
+
+This is a simple python script to read PSpice output data files stored
+in /txt/ format or /csv/ format.
