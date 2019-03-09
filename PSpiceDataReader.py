@@ -124,3 +124,8 @@ class CData:
         plt.ylabel('Value(V or A)', fontproperties='Times New Roman')
         plt.legend(loc='best')
         plt.show()
+
+
+if __name__ == '__main__':
+    TestData = CData('PSpiceData.csv')
+    TestData.PlotFig()
